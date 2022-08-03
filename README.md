@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyasazer
 - 👀 I’m interested in cyber security, front end devloper
-- 🌱 I’m currently learning comptia A+
+- 🌱 I’m currently learning web programming languages
 - 💞️ I’m looking to collaborate on facebook
 - 📫 How to reach me ...
 
