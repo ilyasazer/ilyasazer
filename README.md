@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyasazer
 - 👀 I’m interested in cyber security, front end devloper
-- 🌱 I’m currently learning web programming languages
+- 🌱 I’m 1337 student and i'm currently learning web programming languages and c 
 - 💞️ I’m looking to collaborate on facebook
 - 📫 How to reach me ...
 
